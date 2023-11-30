@@ -6,7 +6,8 @@ difficulter renconter:
 
 pour la version de vultr
 
-pour les script je me suis perdue pour le faire en ssh: 
+pour les script je me suis perdue en ssh au debut, avec les docs fournis j'ai trouver:
+
 
 ![image](https://github.com/Lo0kii/angelo-magalhaes-ex07/assets/109228312/0b7ff51b-9d3b-472a-ade5-cb89a47bc687)
 
