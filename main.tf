@@ -26,8 +26,6 @@ resource "vultr_instance" "my_server" {
     docker run -d -p 80:80 -e node=Server  jialezi/html5-speedtest
   EOF
 
-  provisioner "local-exec" {
-    command = "docker --version"
   }
 }
   
