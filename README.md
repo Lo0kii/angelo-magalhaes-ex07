@@ -20,3 +20,4 @@ résultat:
 
 j'ai oublier de supprimer cet partie : provisioner "local-exec" {
     command = "docker --version"
+on le voit dans les screens mais je les bien supp dans le code
