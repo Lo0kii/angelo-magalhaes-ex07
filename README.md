@@ -21,3 +21,4 @@ résultat:
 j'ai oublier de supprimer cet partie : provisioner "local-exec" {
     command = "docker --version"
 on le voit dans les screens mais je les bien supp dans le code
+j'ai galere sur la "parie" user data, j'etait partie surlocal-exec, avec de la doc j'ai pu me corriger
